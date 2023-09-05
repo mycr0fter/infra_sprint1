@@ -1,0 +1,5 @@
+IP: 51.250.19.182
+name_taski: https://mycr0ft.hopto.org/;
+name_kittygram: https://kittyphotosgram.myddns.me/;
+login: mycr0;
+password: Rhfcysqcnek10; 
